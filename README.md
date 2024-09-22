@@ -1,10 +1,10 @@
 # Auto Save and Backup Images Addon for Blender
 
-Automatically save modified images and create backups to prevent data loss.
+Automatically save modified images and create periodic backups, allowing you to recover any unsaved dirty images after a Blender crash or an accidental computer power-off.
 
 ![Addon Preview](https://github.com/user-attachments/assets/68654ce9-f116-4bab-a011-f2807270767d)
 
-The Auto Save and Backup Images addon ensures that no progress is lost by automatically saving modified (dirty) images and creating backups in a specified directory. This can be done either automatically or when saving `.blend` files, providing a safeguard against crashes.
+The Auto Save and Backup Images addon ensures that no progress is lost by automatically saving modified images and creating backups in a specified directory. This can be done either automatically or when saving `.blend` files.
 
 **I don’t know why this feature isn’t included by default in Blender!🤯**
 
